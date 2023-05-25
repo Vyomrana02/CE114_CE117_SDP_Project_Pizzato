@@ -12,7 +12,7 @@ Pizzato is an android application designed and made in Android Studio with the h
 
 ## Preview
 
-https://drive.google.com/file/d/1h-G2-1XW-gxY3T_rsILbXAcThyW3fNG0/view?usp=drive_link
+[Link of Video](https://drive.google.com/file/d/1h-G2-1XW-gxY3T_rsILbXAcThyW3fNG0/view?usp=drive_link)
 
 ## Tech Stack
 
