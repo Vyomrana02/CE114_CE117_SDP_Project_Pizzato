@@ -21,3 +21,8 @@ https://drive.google.com/file/d/1h-G2-1XW-gxY3T_rsILbXAcThyW3fNG0/view?usp=drive
 - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) :- <a href="https://dart.dev/" >Dart</a>
 - <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /> :- <a href="https://m3.material.io/get-started" >Material UI</a>
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) :- <a href="https://firebase.google.com/" >Firebase</a>
+
+## Installation
+- Dowmload the app from the below link and install on your phone.
+- https://drive.google.com/file/d/1x1sE0ISfKeriLi2SJU5UWUoGjAFv71Io/view?usp=drive_link
+
