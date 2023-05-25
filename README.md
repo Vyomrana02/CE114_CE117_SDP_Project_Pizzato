@@ -24,5 +24,5 @@ Pizzato is an android application designed and made in Android Studio with the h
 
 ## Installation
 - Dowmload the app from the below link and install on your phone.
-- https://drive.google.com/file/d/1x1sE0ISfKeriLi2SJU5UWUoGjAFv71Io/view?usp=drive_link
+- [Link to download Apk](https://drive.google.com/file/d/1x1sE0ISfKeriLi2SJU5UWUoGjAFv71Io/view?usp=drive_link)
 
